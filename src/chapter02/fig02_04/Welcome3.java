@@ -23,12 +23,12 @@ NOTA:
 ║          ║de tabulación.                                                                      ║
 ╠══════════╬════════════════════════════════════════════════════════════════════════════════════╣
 ║ \r       ║Retorno de carro. Coloca el cursor de la pantalla al inicio de la línea actual; no  ║
-║          ║avanza a la siguiente línea. Cualquier carácter que se imprima después del retorno  ║
+║          ║avanza a la siguiente línea. Cualquier caracter que se imprima después del retorno  ║
 ║          ║de carro sobrescribe los caracteres previamente impresos en esa línea.              ║
 ╠══════════╬════════════════════════════════════════════════════════════════════════════════════╣
-║ \\       ║Barra diagonal inversa. Se usa para imprimir un carácter de barra diagonal inversa. ║
+║ \\       ║Barra diagonal inversa. Se usa para imprimir un caracter de barra diagonal inversa. ║
 ╠══════════╬════════════════════════════════════════════════════════════════════════════════════╣
-║ \"       ║Doble comilla. Se usa para imprimir un carácter de doble comilla. Por ejemplo,      ║
+║ \"       ║Doble comilla. Se usa para imprimir un caracter de doble comilla. Por ejemplo,      ║
 ║          ║    System.out.println(“\”entre comillas\””);                                       ║
 ║          ║muestra “entre comillas”.                                                           ║
 ╚══════════╩════════════════════════════════════════════════════════════════════════════════════╝
