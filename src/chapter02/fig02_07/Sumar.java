@@ -27,3 +27,9 @@ public class Sumar {
         System.out.printf("La suma es %d%n", suma); // muestra la suma
     } // fin del método main
 } // fin de la clase Sumar
+
+/*
+❌ ERROR DE COMPILACIÓN:
+ Mensaje: “cannot find symbol”
+ Significa que falta declarar (o importar) una librería.
+*/
