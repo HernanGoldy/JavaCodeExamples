@@ -9,5 +9,5 @@ public class Welcome1 {
 
         System.out.println("Bienvenido a la programacion en Java!");
 
-    } // fin del método «main»
-} // fin de la clase «Welcome1»
+    } // fin del método main
+} // fin de la clase Welcome1
