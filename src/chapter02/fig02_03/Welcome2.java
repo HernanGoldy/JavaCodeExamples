@@ -1,4 +1,4 @@
-package chapter02.fig02_02;
+package chapter02.fig02_03;
 
 // Imprimir una línea de texto con varias instrucciones.
 
