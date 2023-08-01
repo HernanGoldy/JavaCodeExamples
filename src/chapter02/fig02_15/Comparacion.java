@@ -38,5 +38,5 @@ public class Comparacion {
 
         if (number1 >= number2)
             System.out.printf("%d >= %d%n", number1, number2);
-    }
-}
+    } // fin del método main
+} // fin de la clase Comparacion
