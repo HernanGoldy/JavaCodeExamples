@@ -1,0 +1,14 @@
+Ejercicio 2:
+Indique si cada una de las siguientes instrucciones es verdadera o falsa. Si es falsa, explique por qué.
+a) Los comentarios hacen que al ejecutarse el programa, la computadora imprima el texto que va después de los caracteres // en la pantalla.
+b) Todas las variables deben recibir un tipo cuando se declaran.
+c) Java considera que las variables numero y NuMeRo son idénticas.
+d) El operador residuo (%) puede utilizarse solamente con operandos enteros.
+e) Los operadores aritméticos *, /, %, + y − tienen todos el mismo nivel de precedencia.
+
+Respuestas:
+a) Falso. Los comentarios no producen ninguna acción cuando el programa se ejecuta. Se utilizan para documentar programas y mejorar su legibilidad.
+b) Verdadero.
+c) Falso. Java es sensible a mayúsculas y minúsculas, por lo que estas variables son distintas.
+d) Falso. El operador residuo puede utilizarse también con operandos no enteros en Java.
+e) Falso. Los operadores *, / y % tienen mayor precedencia que los operadores + y −.

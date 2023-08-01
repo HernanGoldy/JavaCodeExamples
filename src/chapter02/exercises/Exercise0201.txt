@@ -1,0 +1,19 @@
+Ejercicio 1:
+Complete las siguientes oraciones:
+a) El cuerpo de cualquier método comienza con una _____ (a) y termina con una ______ (a).
+b) La instrucción _____ se utiliza para tomar decisiones.
+c) _____ indica el inicio de un comentario de fin de línea.
+d) _____, _____ y _____ se conocen como espacio en blanco.
+e) Las _____ están reservadas para su uso en Java.
+f) Las aplicaciones en Java comienzan su ejecución en el método _____.
+g) Los métodos _____, _____ y _____ muestran información en una ventana de comandos.
+
+
+Respuestas:
+a) llave izquierda ({), llave derecha (}).
+b) if.
+c) //.
+d) Caracteres de espacio, caracteres de nueva línea y tabuladores.
+e) palabras claves.
+f) main.
+g) System.out.print, System.out.printf y System.out.println.
