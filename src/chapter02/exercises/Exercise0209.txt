@@ -1,0 +1,12 @@
+Ejercicio 9:
+Conteste con verdadero o falso a cada una de las siguientes proposiciones; en caso de ser falso, explique por qué.
+a) Los operadores en Java se evalúan de izquierda a derecha.
+b) Los siguientes nombres de variables son todos válidos: _barra_inferior_, m928134, t5, j7, sus_ventas$, su_$cuenta_total, a, b$, c, z y z2.
+c) Una expresión aritmética válida en Java sin paréntesis se evalúa de izquierda a derecha.
+d) Los siguientes nombres de variables son todos inválidos: 3g, 87, 67h2, h22 y 2h.
+
+Respuestas:
+a) Verdadero
+b) Falso - Los nombres de variables no deben empezar con caracteres como subrayado "_".
+c) Falso - Una expresión aritmética válida en Java sin paréntesis se evalúa por su precedencia.
+d) Falso - Los nombres de variables no deben empezar con números.
