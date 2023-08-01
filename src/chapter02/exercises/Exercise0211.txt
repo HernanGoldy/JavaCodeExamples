@@ -1,0 +1,12 @@
+Ejercicio 11:
+¿Cuáles de las siguientes instrucciones de Java contienen variables, cuyos valores se modifican?
+a) p = i + j + k + 7;
+b) System.out.println(“variables cuyos valores se modifican”);
+c) System.out.println(“a = 5”);
+d) valor = entrada.nextInt();
+
+Respuestas:
+a) Contiene variables cuyo valores se modifican (i, j, k).
+b) No contiene variables.
+c) Contiene una variable con un valor específico que no se puede modificar.
+d) Contiene una variable cuyo valores se modifican (entrada).
