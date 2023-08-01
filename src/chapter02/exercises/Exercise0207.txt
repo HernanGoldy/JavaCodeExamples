@@ -1,0 +1,16 @@
+Ejercicio 7:
+Complete las siguientes oraciones:
+a) _____ se utilizan para documentar un programa y mejorar su legibilidad.
+b) En un programa en Java puede tomarse una decisión usando un _____ (a).
+c) Los cálculos se realizan normalmente mediante instrucciones _____.
+d) Los operadores aritméticos con la misma precedencia que la multiplicación son _____ y _____.
+e) Cuando los paréntesis en una expresión aritmética están anidados, se evalúa primero el conjunto _____ de paréntesis.
+f) Una ubicación en la memoria de la computadora que puede contener distintos valores en diversos instantes de tiempo durante la ejecución de un programa, se llama _____.
+
+Respuestas:
+a) /** */.
+b) condicional (if).
+c) aritméticas.
+d) división y residuo.
+e) más interno.
+f) variable.
