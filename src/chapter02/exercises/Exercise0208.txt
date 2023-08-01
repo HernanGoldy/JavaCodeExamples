@@ -1,0 +1,10 @@
+Ejercicio 8:
+Escriba instrucciones en Java que realicen cada una de las siguientes tareas:
+a) Mostrar el mensaje “Escriba un entero: “, dejando el cursor en la misma línea.
+b) Asignar el producto de las variables b y c a la variable a.
+c) Usar un comando para indicar que un programa va a hacer un cálculo de nómina de muestra.
+
+Respuestas:
+a) System.out.print("Escriba un entero: ");
+b) a = b * c;
+c)
