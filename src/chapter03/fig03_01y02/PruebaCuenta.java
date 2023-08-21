@@ -1,5 +1,7 @@
 package chapter03.fig03_01y02;
 
+// Fig. 3.2: PruebaCuenta.java
+
 // La clase controladora es la que contiene el método main.
 // Creamos y manipulamos el objeto Cuenta.
 
@@ -9,9 +11,10 @@ public class PruebaCuenta {
 
     public static void main(String[] args) {
 
+        // creamos un objeto de la clase Scanner y asignamos a la variable input una referencia de ese objeto Scanner
         Scanner input = new Scanner(System.in);
 
-        // creamos el objeto Cuenta y lo asignamos a miCuenta
+        // creamos un objeto de la clase Cuenta y asignamos a la variable miCuenta una referencia de ese objeto Cuenta
         Cuenta miCuenta = new Cuenta();
 
         // mostramos el valor inicial del nombre (null)

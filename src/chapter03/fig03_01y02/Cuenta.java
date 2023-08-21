@@ -1,9 +1,11 @@
 package chapter03.fig03_01y02;
 
+// Fig. 3.1: Cuenta.java
+
 public class Cuenta {
 
     // atributos (características)
-    private String nombre; // variable de instancia
+    private String nombre; // variable de instancia - valor por defecto null
 
     // métodos/funciones (comportamientos)
     // método para establecer el nombre en el objeto
