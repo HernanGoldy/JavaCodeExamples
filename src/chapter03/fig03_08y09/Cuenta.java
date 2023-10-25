@@ -2,10 +2,10 @@ package chapter03.fig03_08y09;
 
 // Fig. 3.8: Cuenta.java
 
-/*
-La clase Cuenta contiene una variable de instancia String llamada "nombre", una variable de instancia double
-llamada "saldo" y un constructor. Además, esta clase Cuenta contiene un método llamado "deposito" que realiza la
-validación.
+/**
+ * @apiNote La clase Cuenta contiene una variable de instancia String llamada "nombre", una variable de instancia
+ * «double» llamada "saldo" y un constructor. Además, esta clase Cuenta contiene un método llamado "depósito" que
+ * realiza validación.
  */
 
 public class Cuenta {
@@ -14,7 +14,7 @@ public class Cuenta {
     private String nombre; // variable de instancia
     private double saldo; // variable de instancia
 
-    // constructor
+    // constructor de Cuenta que recibe dos parámetros
     public Cuenta(String nombre, double saldo) {
 
         this.nombre = nombre; // asigna "nombre" a la variable de instancia "nombre"
