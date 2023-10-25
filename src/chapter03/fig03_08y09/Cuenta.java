@@ -4,15 +4,15 @@ package chapter03.fig03_08y09;
 
 /**
  * @apiNote La clase Cuenta contiene una variable de instancia String llamada "nombre", una variable de instancia
- * «double» llamada "saldoInicial" y un constructor. Además, esta clase Cuenta contiene un método llamado "depósito" que
- * realiza validación.
+ * «double» llamada "saldo" y un constructor. Además, esta clase Cuenta contiene un método llamado "depositar" que
+ * realiza la validación.
  */
 
 public class Cuenta {
 
     // atributos (características)
     private String nombre; // variable de instancia
-    private double saldoInicial; // variable de instancia
+    private double saldo; // variable de instancia
 
     // constructor de Cuenta que recibe dos parámetros
     public Cuenta(String nombre, double saldoInicial) {
@@ -20,11 +20,11 @@ public class Cuenta {
         this.nombre = nombre; // asigna "nombre" a la variable de instancia "nombre"
 
         /*
-        validamos que el saldo inicial sea mayor que 0.0; caso contrario, la variable de instancia "saldoInicial"
+        validamos que el «saldo inicial» sea mayor que 0.0; caso contrario, la variable de instancia "saldo"
         mantiene su valor inicial predeterminado que es 0.0
          */
         if (saldoInicial > 0.0) {
-            this.saldoInicial = saldoInicial; // asigna "saldoInicial" a la variable de instancia "saldoInicial"
+            this.saldo = saldoInicial; // asigna "saldoInicial" a la variable de instancia "saldo"
         }
     }
 
@@ -33,14 +33,14 @@ public class Cuenta {
     public void depositar(double montoDeposito) {
 
         if (montoDeposito > 0.0) { // si el montoDeposito es válido
-            saldoInicial += montoDeposito; // lo suma al "saldoInicial"
+            saldo += montoDeposito; // lo suma al "saldo"
         }
     }
 
     // 2. método que devuelve el saldo de la cuenta
     public double obtenerSaldo() {
 
-        return saldoInicial;
+        return saldo;
     }
 
     // 3. método que establece el nombre de la cuenta
